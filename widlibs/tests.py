@@ -2,7 +2,8 @@ import tkinter as tk
 
 import widgets as wid
 
-if __name__ == '__main__':
+
+def fn_tst():
     app = tk.Tk()
     frm = tk.Frame(app)
     frm.pack()
@@ -14,3 +15,7 @@ if __name__ == '__main__':
     wid.OkButton(frm, 'Botao de teste').build_show(tst)
 
     app.mainloop()
+
+
+if __name__ == '__main__':
+    fn_tst()
