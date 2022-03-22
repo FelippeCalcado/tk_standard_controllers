@@ -1,5 +1,6 @@
 # tk_standard_controllers
 Standardized tkinter widgets 
+Package name = widlibs
 
 Para instalar:
 '''console

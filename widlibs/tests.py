@@ -1,7 +1,9 @@
 import tkinter as tk
 
-import widgets as wid
+import widlibs.widgets as wid
 
+def aaa():
+    print('aaabbb')
 
 def fn_tst():
     app = tk.Tk()

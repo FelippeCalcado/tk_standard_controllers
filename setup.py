@@ -94,7 +94,7 @@ def find_package_data(
     return out
 
 
-PACKAGE = "tk_standard_controllers"
+PACKAGE = "widlibs"
 NAME = PACKAGE
 DESCRIPTION = "Módulo para simplificar o uso de widgets tkinter"
 AUTHOR = "Felippe Calcado"
